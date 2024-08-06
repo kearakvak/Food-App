@@ -1,0 +1,9 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+  color: "#84e3e8"
+
+  android_12:
+    color: "#84e3e8"
+    # branding: "Kearakvak"
